@@ -8,6 +8,8 @@
 mrjefersoniure/mrjefersoniure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mrjefersoniure)
+--->
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mrjefersoniure&show_icons=true&theme=dark#gh-dark-mode-only)
