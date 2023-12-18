@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jefersoniure
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @jefersoniure!
+👀 I’m interested now about PHP.
+🌱 Currently diving into back-end development with Laravel.
+💻 Open to collaboration on personal projects.
+📫 You can reach me at mjefersoniure@gmail.com.
 
 <!---
 mrjefersoniure/mrjefersoniure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
