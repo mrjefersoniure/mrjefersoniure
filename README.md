@@ -1,8 +1,17 @@
-👋 Hi, I’m @jefersoniure!
-👀 I’m interested now about PHP.
-🌱 Currently diving into back-end development with Laravel.
-💻 Open to collaboration on personal projects.
-📫 You can reach me at mjefersoniure@gmail.com.
+👋 Hi, I’m @jefersoniure!<br>
+👀 I’m interested now about PHP.<br>
+🌱 Currently diving into back-end development with Laravel.<br>
+💻 Open to collaboration on personal projects.<br>
+📫 You can reach me at mjefersoniure@gmail.com.<br>
+
+🌟 Welcome to My Repository! 🌟<br>
+<br>
+Hello! 👋 I'm excited to have you here. This repository is a space where I explore the exciting world of backend development with Laravel. Feel free to explore the code, share your ideas, and collaborate to make this project even better.<br>
+<br>
+🚀 Whether you're a fellow developer, contributor, or just curious, your presence is valued. If you have any questions, ideas, or feedback, don't hesitate to reach out. Let's create something awesome together!<br>
+<br>
+Happy coding! 🎉<br>
+
 
 <!---
 mrjefersoniure/mrjefersoniure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
