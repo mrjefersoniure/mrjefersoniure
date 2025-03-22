@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mrjefersoniure)
---->
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mrjefersoniure&show_icons=true&theme=dark#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjefersoniure&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mrjefersoniure/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjefersoniure&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mrjefersoniure/github-readme-stats)--->
+
