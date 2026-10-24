@@ -1,26 +1,47 @@
-👋 Hi, I’m @jefersoniure!<br>
-👀 I’m interested now about PHP, JS and Python.<br>
-🌱 Currently diving into back-end development with Laravel.<br>
-💻 Open to collaboration on personal projects.<br>
-📫 You can reach me at jefersoniurematos@gmail.com<br>
+# 👋 Olá, eu sou Jeferson Iure!
 
-🌟 Welcome to My Repository! 🌟<br>
-<br>
-Hello! 👋 I'm excited to have you here. This repository is a space where I explore the exciting world of backend development with Laravel. Feel free to explore the code, share your ideas, and collaborate to make this project even better.<br>
-<br>
-🚀 Whether you're a fellow developer, contributor, or just curious, your presence is valued. If you have any questions, ideas, or feedback, don't hesitate to reach out. Let's create something awesome together!<br>
-<br>
-Happy coding! 🎉<br>
+💻 **Desenvolvedor | Gestor de TI | Fundador da Zynki**
 
+Sou **Desenvolvedor de Software** e **Gestor de TI**, apaixonado por criar soluções reais que conectam tecnologia, automação, dados e negócios.
 
-<!---
-mrjefersoniure/mrjefersoniure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mrjefersoniure)
+🚀 Fundador da **Zynki**, uma plataforma SaaS desenvolvida para ajudar empresas a gerenciar suas operações, vendas, estoque, PDV e loja virtual em um só lugar.
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mrjefersoniure&show_icons=true&theme=dark#gh-dark-mode-only)
+## 👨‍💻 Sobre mim
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjefersoniure&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mrjefersoniure/github-readme-stats)--->
+- 🎓 Graduando em Sistemas de Informação
+- 💼 Gestor de TI na Zaut Academias
+- 🚀 Fundador e Desenvolvedor da Zynki
+- 🧠 Interesse em SaaS, ERP, APIs, automação e integrações de sistemas
+- 📊 Experiência com análise de dados e Power BI
+- 🌐 Experiência com desenvolvimento web e produtos digitais
+- 🔗 Sempre explorando novas tecnologias e criando soluções para problemas reais
 
+## 🛠️ Tecnologias
+
+**Linguagens:**  
+JavaScript • TypeScript • Python • PHP • SQL
+
+**Desenvolvimento:**  
+Node.js • React • Next.js • Laravel • APIs REST
+
+**Banco de Dados & Infraestrutura:**  
+PostgreSQL • MySQL • SQLite • Docker • Git
+
+**Outras Ferramentas:**  
+Power BI • WordPress • Figma
+
+## 🚀 Atualmente desenvolvendo
+
+**Zynki** — um ecossistema de gestão empresarial que integra:
+
+`ERP` • `PDV` • `Estoque` • `Loja Virtual` • `Pagamentos` • `Integrações` • `Automação`
+
+## 🤝 Vamos nos conectar
+
+Estou sempre interessado em tecnologia, SaaS, automação empresarial e novos projetos.
+
+📫 **E-mail:** [jefersoniurematos@gmail.com](mailto:jefersoniurematos@gmail.com)
+
+---
+
+> Criando tecnologia para resolver problemas reais. 🚀
