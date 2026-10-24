@@ -1,5 +1,5 @@
 👋 Hi, I’m @jefersoniure!<br>
-👀 I’m interested now about PHP.<br>
+👀 I’m interested now about PHP, JS and Python.<br>
 🌱 Currently diving into back-end development with Laravel.<br>
 💻 Open to collaboration on personal projects.<br>
 📫 You can reach me at jefersoniurematos@gmail.com<br>
