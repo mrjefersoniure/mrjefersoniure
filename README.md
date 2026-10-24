@@ -32,7 +32,7 @@ Power BI • WordPress • Figma
 
 ## 🚀 Atualmente desenvolvendo
 
-**Zynki** — um ecossistema de gestão empresarial que integra:
+**Zynki** um ecossistema de gestão empresarial que integra:
 
 `ERP` • `PDV` • `Estoque` • `Loja Virtual` • `Pagamentos` • `Integrações` • `Automação`
 
